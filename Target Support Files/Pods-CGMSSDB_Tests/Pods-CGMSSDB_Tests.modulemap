@@ -1,0 +1,6 @@
+framework module Pods_CGMSSDB_Tests {
+  umbrella header "Pods-CGMSSDB_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

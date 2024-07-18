@@ -1,0 +1,27 @@
+PODS:
+  - CGMSSDB (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CGMSSDB (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CGMSSDB:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CGMSSDB: 1d1dc70369cec65f5c77f1da4043f4ddc3dd3d0a
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 059a8d70830a69eaa0494c4d2c3fd48b7c34c670
+
+COCOAPODS: 1.15.2

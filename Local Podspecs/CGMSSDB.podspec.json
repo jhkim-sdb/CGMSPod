@@ -1,0 +1,22 @@
+{
+  "name": "CGMSSDB",
+  "version": "0.1.0",
+  "summary": "A short description of CGMSSDB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jhkim/CGMSSDB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jhkim": "kimjh.sdbiosensor@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/jhkim/CGMSSDB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CGMSSDB/Classes/**/*"
+}
